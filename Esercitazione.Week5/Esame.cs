@@ -8,5 +8,15 @@ namespace Esercitazione.Week5
 {
     internal class Esame
     {
+        public Corso Corso { get; set; }
+
+        public bool Superato { get; set; } = false;
+
+        public Esame()
+        {
+
+        }
     }
+
+    
 }

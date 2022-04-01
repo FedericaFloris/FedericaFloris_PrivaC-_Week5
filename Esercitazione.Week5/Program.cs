@@ -4,7 +4,7 @@
 //2) reference type, Heap
 //3) a-b
 using Esercitazione.Week5;
-using System.Collections;
+
 
 Console.WriteLine("Benvenuto all'università");
 
