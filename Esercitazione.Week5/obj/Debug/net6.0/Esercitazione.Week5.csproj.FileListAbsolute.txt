@@ -1,0 +1,15 @@
+C:\Users\39348\Desktop\Esercitazione.Week5\Esercitazione.Week5\bin\Debug\net6.0\Esercitazione.Week5.exe
+C:\Users\39348\Desktop\Esercitazione.Week5\Esercitazione.Week5\bin\Debug\net6.0\Esercitazione.Week5.deps.json
+C:\Users\39348\Desktop\Esercitazione.Week5\Esercitazione.Week5\bin\Debug\net6.0\Esercitazione.Week5.runtimeconfig.json
+C:\Users\39348\Desktop\Esercitazione.Week5\Esercitazione.Week5\bin\Debug\net6.0\Esercitazione.Week5.dll
+C:\Users\39348\Desktop\Esercitazione.Week5\Esercitazione.Week5\bin\Debug\net6.0\Esercitazione.Week5.pdb
+C:\Users\39348\Desktop\Esercitazione.Week5\Esercitazione.Week5\obj\Debug\net6.0\Esercitazione.Week5.csproj.AssemblyReference.cache
+C:\Users\39348\Desktop\Esercitazione.Week5\Esercitazione.Week5\obj\Debug\net6.0\Esercitazione.Week5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\39348\Desktop\Esercitazione.Week5\Esercitazione.Week5\obj\Debug\net6.0\Esercitazione.Week5.AssemblyInfoInputs.cache
+C:\Users\39348\Desktop\Esercitazione.Week5\Esercitazione.Week5\obj\Debug\net6.0\Esercitazione.Week5.AssemblyInfo.cs
+C:\Users\39348\Desktop\Esercitazione.Week5\Esercitazione.Week5\obj\Debug\net6.0\Esercitazione.Week5.csproj.CoreCompileInputs.cache
+C:\Users\39348\Desktop\Esercitazione.Week5\Esercitazione.Week5\obj\Debug\net6.0\Esercitazione.Week5.dll
+C:\Users\39348\Desktop\Esercitazione.Week5\Esercitazione.Week5\obj\Debug\net6.0\refint\Esercitazione.Week5.dll
+C:\Users\39348\Desktop\Esercitazione.Week5\Esercitazione.Week5\obj\Debug\net6.0\Esercitazione.Week5.pdb
+C:\Users\39348\Desktop\Esercitazione.Week5\Esercitazione.Week5\obj\Debug\net6.0\Esercitazione.Week5.genruntimeconfig.cache
+C:\Users\39348\Desktop\Esercitazione.Week5\Esercitazione.Week5\obj\Debug\net6.0\ref\Esercitazione.Week5.dll

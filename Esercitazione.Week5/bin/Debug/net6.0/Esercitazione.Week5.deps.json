@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Esercitazione.Week5/1.0.0": {
+        "runtime": {
+          "Esercitazione.Week5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Esercitazione.Week5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
